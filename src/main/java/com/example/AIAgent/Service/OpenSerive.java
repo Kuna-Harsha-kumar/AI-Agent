@@ -22,8 +22,7 @@ public class OpenSerive {
 
 
     // 🔑 Your OpenRouter API key (get from https://openrouter.ai/keys)
-    private static final String API_KEY = "Bearer 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";
-
+    private static final String API_KEY = "Bearer ";
     // 🌐 OpenRouter endpoint
     private static final String ENDPOINT = "https://openrouter.ai/api/v1/chat/completions";
 
